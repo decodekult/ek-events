@@ -1,0 +1,12 @@
+#adminmenu #menu-posts-evento div.wp-menu-image{background:transparent url(img/calendar.png) no-repeat 6px -17px scroll !important;}
+#adminmenu #menu-posts-evento:hover div.wp-menu-image, #adminmenu #menu-posts-evento.wp-has-current-submenu div.wp-menu-image{background:transparent url(img/calendar.png) no-repeat 6px 7px scroll !important;}		
+
+#icon-edit.icon32-posts-evento {background:url(img/event.png) 50% 50% no-repeat scroll transparent;}
+table.wp-list-table .column-tipoev, table.wp-list-table .column-thing_id, table.wp-list-table .column-estado {width:80px;}
+table.wp-list-table .column-fecha {width:280px;}
+table.wp-list-table .column-lugar {width:150px;}
+
+.red {color:red;} .green {color:#85BD3E;}
+a.event-place {padding-left:24px;background:url("img/pin.png") 0 50% no-repeat;}
+.staspan {display:inline-block;margin:0 5px 0 0;width:8px;height:8px;border-radius:5px;background:#ccc;}
+.staspan.unknown {background:#f00;} .staspan.futuro {background:#4B8DD1;} .staspan.ahora {background:#85BD3E;}

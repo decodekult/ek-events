@@ -40,6 +40,10 @@ This is a mu-plugin
 
 De momento sólo disponible en es_ES
 
+== License ==
+
+GPL (https://www.gnu.org/licenses/gpl.html)
+
 == Changelog ==
 
 = 0.1.0 =

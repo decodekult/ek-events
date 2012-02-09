@@ -30,24 +30,6 @@ function ek_e_register_objects() {
 
 // Custom Meta-boxes
 
-/**
- * Registering meta boxes
- *
- * In this file, I'll show you how to add more field type (in this case, the 'taxonomy' type)
- * All the definitions of meta boxes are listed below with comments, please read them CAREFULLY
- *
- * You also should read the changelog to know what has been changed
- *
- * For more information, please visit: http://www.deluxeblogtips.com/2010/04/how-to-create-meta-box-wordpress-post.html
- *
- */
-
-/**
- * Prefix of meta keys (optional)
- * Wse underscore (_) at the beginning to make keys hidden
- * You also can make prefix empty to disable it
- */
-
 $prefix = '_ek_';
 
 $meta_boxes = array();

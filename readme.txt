@@ -38,7 +38,7 @@ This is a mu-plugin
 
 == Language ==
 
-De momento sólo disponible en es_ES, more on the way, hopefully
+De momento sólo disponible en es_ES, more on the way, hopefully now please
 
 == License ==
 
